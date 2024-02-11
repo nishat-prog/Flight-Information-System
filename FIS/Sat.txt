@@ -1,0 +1,11 @@
+Hubli Goa Indigo 07:40 21:20 Hubli(HBX)->Bangalore(BLR)->Goa(GOI)  13:40 8116  20245
+Hubli Goa AirIndia 07:40 17:05 Hubli(HBX)->Bangalore(BLR)->Hyderabad(HYD)->Goa(GOI) 09:25 9451  25550
+Bangalore Patna  Indigo 06:05 11:15 Bangalore(BLR)->Lucknow(LKO)->Patna(PAT) 05:10 5436  15349
+Bangalore Patna  Indigo 05:05 07:45 Bangalore(BLR)->Patna(PAT)  02:40 7223 18350
+Bangalore Patna  AirIndia 06:05 11:15 Bangalore(BLR)->Mumbai(BOM)->Patna(PAT) 06:35 20112 50036
+Hubli Dehradun Indigo 07:40 16:00 Hubli(HBX)->Bangalore(BLR)->Dehradun(DED) 08:20 9053  25643
+Hubli NewDelhi Indigo 14:55 17:25 Hubli(HBX)->NewDelhi(DEL) 02:30 7538 17321
+Hubli NewDelhi AirIndia 17:25 00:05 Hubli(HBX)->Mumbai(BOM)->NewDelhi(DEL)  06:40 6422 15040
+Hubli Chennai  Indigo 17:25 00:35 Hubli(HBX)->Bangalore(BLR)->Chennai(MAA)  07:10 8047 16870
+Hubli Chennai  AirIndia 16:45 18:25 Hubli(HBX)->Chennai(MAA) 01:40 9926 15230
+

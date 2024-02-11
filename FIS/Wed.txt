@@ -1,0 +1,5 @@
+Srinagar Bangalore Indigo 04:25 10:05 Srinagar(SXR)->Delhi(DEL)->Banglore(BLR) 05:40 18152 51649
+Srinagar Delhi SpiceJet 19:05 20:35 Srinagar(SXR)->Delhi(DEL) 01:30 8753 11546
+Srinagar Chennai Indigo 20:40 02:0 Srinagar(SXR)->Delhi(DEL0->Chennai(MAA) 06:00 23927 76456
+Lucknow Goa Indigo 08:15 15:20 Lucknow(LKO)->Mumbai(BOM)->Goa(GOI) 07:05 13390 68661
+Shimla Chandigarh Indigo 11:45 06:50 Shimla(SLV)->Delhi(DEL)->Chandigarh(IXC) 19:05 12823 80342

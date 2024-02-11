@@ -1,0 +1,6 @@
+Hubli Mumbai Indigo 17:25 23:35 Hubli(HBX)->Mumbai(BOM) 6:10 5903 15200
+Hubli Mumbai AirIndia 07:40 16:40 Hubli(HBX)->Bangalore(BLR)->Mumbai(BOM) 09:00 6582 18399
+Hubli Pune Indigo 17:25 02:50 Hubli(HBX)->Hyderabad(HYD)->Pune(PNQ) 9:25 3691 10549
+Hubli Pune AirIndia 07:40 14:20 Hubli(HBX)->Bangalore(BLR)->Pune(PNQ) 6:40 9571 18333
+Hubli Chennai Indigo  17:25 02:50 Hubli(HBX)->Hyderabad->Chennai(MAA) 09:25 3691 10245
+Hubli Chennai AirIndia 17:25 21:50 Hubli(HBX)->Bangalore(BLR)->Chennai(MAA) 6:30 6392 17922

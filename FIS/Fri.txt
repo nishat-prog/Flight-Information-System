@@ -1,0 +1,5 @@
+Jaipur Mumbai AirIndia 7:50  9:35  Jaipur(JAI)->Mumbai(BOM)  01:45  6511 36302
+Delhi  Chennai Indigo 6:30  12:00 Delhi(DEL)->Mumbai(BOM)->Chennai(MAA)  05:30  7259  45257
+Lucknow Varanasi AirIndia  20:45  11:45  Lucknow(LKO)->Delhi(DEL)->Varanasi(VNS)  15:00  7211   28685
+Kolkata Amritsar AirIndia  10:00  15:25  Kolkata(CCU)->Delhi(DEL)->Amritsar(ATQ)  05:25  8875  43476
+Delhi Goa  Indigo  19:25  5:20   Delhi(DEL)->Surat(STV)->Bengaluru(BLR)->Goa(GOI)  09:55  5599 79015

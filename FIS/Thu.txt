@@ -1,0 +1,5 @@
+Hubli Ahmedabad AirIndia 07:40 14:20 Hubli(HBX)->Banglore(BLR)->Ahmedabad(AMD) 06:40 3986 9600
+Amritsar Ahmedabad Indigo 20:00 22:05 Amritsar(ATQ)->Ahmedabad(AMD) 02:05 4581 10000
+Ahmedabad Amritsar Indigo 17:25 19:20 Ahmedabad(AMD)->Delhi(DEL)->Amritsar(ATQ) 08:05 5387 34871
+Ahmedabad Delhi SpiceJet 06:45 08:15 Ahmedabad(AMD)->Delhi(DEL) 01:30 2473 19400
+Amritsar Hubli Indigo 05:30 16:25 Amritsar(ATQ)->Bombay(BOM)->Hubli(HBX) 10:55 7448 30400

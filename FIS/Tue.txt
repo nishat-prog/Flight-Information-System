@@ -1,0 +1,9 @@
+Surat Chandigarh Indigo 15:20 20:20 Surat Bangalore Chandigarh 7:00 7311 18942
+Surat Chandigarh AirIndia 15:05 20:05 Surat Goa Chandigarh 7:00 7941 16942
+Surat Chandigarh Indigo 13:30 23:00 Surat Delhi Chandigarh 8:30 9696 21914
+Surat Chandigarh AirIndia 15:20 20:20 Surat(SVT)->Bangalore(BLR)-> Chandigarh(IXC) 7:00 7311 18942
+Surat Chandigarh Indigo 15:05 20:05 Surat(SVT)-> Goa(GOI)-> Chandigarh(IXC) 7:00 7941 16942
+Surat Chandigarh AirIndia 13:30 23:00 Surat(SVT)-> Delhi(DEL)-> Chandigarh(IXC) 8:30 9696 21914
+Jaipur Surat Indigo 14:05 15:40 Jaipur(JAI)->Surat(SVT) 1:35 5299 9499
+Jaipur Surat AirIndia 14:05 15:40 Jaipur(JAI)->Ahmedabad(AMD)->Surat(SVT) 1:35 9001 18751
+                                                                                         
